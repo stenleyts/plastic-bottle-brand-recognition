@@ -10,11 +10,9 @@ This project uses Convolutional Neural Networks (CNN) to classify and detect dif
 - Real-time detection through webcam feed
 - Dataset from Kaggle, Google Images, and self-collected samples
 
-## Technologies
-- Python
-- TensorFlow / Keras
-- OpenCV
-- NumPy
+## Dataset
+Dataset used for training and testing can be accessed here: 
+[Google Drive – Plastic Bottle Dataset](https://drive.google.com/drive/folders/1frmIClDn3a4f0E6smDu9ITwx8G2U-jc5?usp=sharing)
 
-## Project Presentation
-[View PPT here](https://drive.google.com/your-link)
+## Source
+[Kaggle - Plastic Bottle Brand Images](https://www.kaggle.com/datasets/anggabaguss/botol-mineral)
